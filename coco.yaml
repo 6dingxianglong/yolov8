@@ -1,0 +1,26 @@
+path: /Users/dingxianglong/Desktop/vscode/yolov8 # dataset root dir
+train: images/train
+val: images/val
+# train: 'train/images' 
+# val: 'val/images'
+
+# Classes
+names:
+  0: Stonechat #岩鷚
+  1: Black-crowned Night Heron #黑冠麻鷺
+  2: Streak-breasted Scimitar Babbler #紋翼畫眉
+  3: Daurian Redstart #紅尾伯勞
+  4: Eurasian Tree Sparrow #山麻雀
+  5: Ring-necked Pheasant #環頸雉
+  6: Taiwan Scimitar Babbler #臺灣白喉噪眉
+  7: Mikado Pheasant #董雞
+  8: Coal Tit #煤山雀
+  9: House Sparrow #麻雀
+  10: Rock Pigeon #野鴿
+  11: Plumbeous Water Redstart #鉛色水鶇
+  12: Hill Myna #八哥
+  13: Taiwan spotted turtle #烏龜
+  
+  
+
+
